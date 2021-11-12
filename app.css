@@ -3,7 +3,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background-color: black;
+	background-color: darkslategray;
 }
 
 h1 {
@@ -11,5 +11,5 @@ h1 {
 }
 
 .letter {
-	transitoin: color 1000ms;
+	transition: color 1000ms;
 }
